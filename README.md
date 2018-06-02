@@ -1,9 +1,9 @@
-# Project 3 (CS 315) |  ARM Emulation in C: ARMemu
+# ARM Emulation in C: ARMemu
 ---
 Developed by: Arseniy Novitskiy </br>
 Languages: ARMv7, C. </br>
 
-Project Specifications: http://cs315.cs.usfca.edu/projects/project03
+Emulator's Description: 
 
 ## Developer Instructions
 
