@@ -3,7 +3,7 @@
 Developed by: Arseniy Novitskiy </br>
 Languages: ARMv7, C. </br>
 
-Emulator's Description: 
+Emulator's Description: ARMemu can execute ARM machine code by emulating the register state of an ARM CPU and emulating the execution of ARM instructions.
 
 ## Developer Instructions
 
